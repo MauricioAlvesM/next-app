@@ -23,10 +23,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 ## Print screen
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-next-app.png)
+Format: ![Alt Text](https://github.com/MauricioAlvesM/next-app/blob/main/image-next-app.png)
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/hook-use-effect-app/blob/main/image-next-app-random.png)
+Format: ![Alt Text](https://github.com/MauricioAlvesM/next-app/blob/main/image-next-app-random.png)
 
 
 
